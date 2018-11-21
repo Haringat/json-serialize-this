@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "typescript": "3.2.0-dev.20181117"
+  },
+  "scripts": {
+    "postinstall": "tsc"
+  },
+  "license": "MIT",
+  "name": "json-serialize-this",
+  "main": "src/index.js",
+  "version": "1.0.0"
+}
